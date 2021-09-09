@@ -1,0 +1,11 @@
+[package]
+name = "airlib"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+autocxx = "0.11.1"
+cxx = "1.0.54"
+
+[build-dependencies]
+autocxx-build = "0.11.1"
